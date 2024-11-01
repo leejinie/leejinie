@@ -1,6 +1,6 @@
 ![Header](https://github.com/leejinie/leejinie/blob/main/jpg/log.jpg)
 
-About me
+## I'm a beginner Frontend developer 
 
 Languages and Tools
 
