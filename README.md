@@ -1,7 +1,7 @@
 ![Header](https://github.com/leejinie/leejinie/blob/main/jpg/log.jpg)
 
-## About me
-I'm a beginner Frontend developer.
+## Hello !!!
+ I'm a beginner Frontend developer. I'm 18 years old and I'm from Ukraine. 
 
 ### Languages and Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-6a93b0?style=for-the-badge&logo=javascript)
